@@ -1,0 +1,10 @@
+.separation {
+  width: 5px;
+  height: 100vh;
+  background: #727272; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #e0bddf,
+    #95d4ed
+  ); /* Chrome 10-25, Safari 5.1-6 */
+}
